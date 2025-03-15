@@ -43,6 +43,6 @@ This repository contains the **Digital Tachometer** project, developed using **A
 - **Proteus 8** (for circuit simulation).  
 - **Atmega32** microcontroller.  
 - **IR sensor module**.
-- 
+
 Feel free to report any issues or suggest improvements!  
 
