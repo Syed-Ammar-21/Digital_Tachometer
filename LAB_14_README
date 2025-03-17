@@ -1,0 +1,23 @@
+# Stepper Motor AVR Code  
+
+This repository contains the assembly code for controlling a **Stepper Motor** using an **ATmega32** microcontroller, basically it was an open ended project  can say.
+
+## 📂 Files Included  
+- **`LAB_14.asm`** – Assembly source code for stepper motor control.  
+- **`LAB_14.hex`** – Compiled hex file for flashing onto the ATmega32.  
+- **`LAB 14.docx`** – Word document with explanations and project details.  
+
+## 🛠️ Requirements  
+- **Microcontroller**: ATmega32  
+- **Software**:  
+  - AVR Studio 4 (for assembly coding)  
+  - Proteus (for simulation)  
+  - Any AVR programmer (for hardware implementation)  
+
+## 🚀 Usage  
+1. Open `LAB_14.asm` in AVR Studio 4.  
+2. Assemble the code and generate the hex file.  
+3. Use **Proteus** to simulate the stepper motor operation.  
+4. Upload `LAB_14.hex` to the ATmega32 using an AVR programmer.  
+
+Feel free to modify this if you need any changes!
